@@ -1,3 +1,5 @@
+// A dummy example to have an application specific package
+
 package helper
 
 import (
